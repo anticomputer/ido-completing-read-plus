@@ -4,8 +4,6 @@ sudo: false
 
 env:
   matrix:
-    - EMACS_VERSION=emacs-24.4
-    - EMACS_VERSION=emacs-24.5
     - EMACS_VERSION=emacs-25.1
     - EMACS_VERSION=emacs-25.2
     - EMACS_VERSION=emacs-25.3
